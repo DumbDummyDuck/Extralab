@@ -17,7 +17,7 @@
 # [Задания](../master/Задания.md)
 Отчёты электронные
 
-Заметили ошибкуд? — ~~пуште в мастер~~ [Отрепортите]((https://github.com/DumbDummyDuck/Extralab/issues))
+Заметили ошибкуд? — ~~пуште в мастер~~ [Отрепортите](https://github.com/DumbDummyDuck/Extralab/issues)
 
 ## Код для генерации подробно
 ```python
