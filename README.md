@@ -36,3 +36,5 @@ with open('out.txt','w') as out:   # данная конструкция авт�
 
 # Дополнительно
 [Генераторы на RegExp в других языках](https://stackoverflow.com/questions/274011/random-text-generator-based-on-regex)
+
+[Хабр с++ regex](https://habr.com/ru/company/otus/blog/532056/)
